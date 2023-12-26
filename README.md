@@ -1,16 +1,20 @@
-### Hi there 👋
+**About me**
 
-<!--
-**kyavla/kyavla** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 💼 FrontEnd Engineer at [TikTok for Business](http://ads.tiktok.com/)
 
-Here are some ideas to get you started:
+- 💬 Ask me about anything [here](https://github.com/kyavla/kyavla/issues)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<code><img height="20" alt="typescript" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>
+<code><img height="20" alt="react" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
+<code><img height="20" alt="golang" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/go/go.png"></code>  
+
+
+| <a href="https://github.com/kyavla/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=kyavla&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Anurag's github stats" /></a> | <a href="https://github.com/kyavla/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kyavla&layout=compact&theme=buefy&hide_border=true" /></a> |
+| ------------- | ------------- |
+
+<br />
+<br />
+
+<a href="https://twitter.com/kyavlani">
+  <img align="right" alt="Kyavla Ni | Twitter" width="21px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/twitter.svg" />
+</a>

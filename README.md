@@ -16,6 +16,6 @@
 
 <br />
 
-<a href="https://twitter.com/stout-ni">
+<a href="https://twitter.com/stout_ni">
   <img align="right" alt="Stout Ni | Twitter" width="21px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/twitter.svg" />
 </a>

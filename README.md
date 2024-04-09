@@ -2,7 +2,7 @@
 
 - 💼 FrontEnd Engineer at [TikTok for Business](http://ads.tiktok.com/)
 
-- 🍺 A connoisseur of spirits and a devotee of metal music.
+- 🕙 My response time is usually between 10:30 and 19:00 Beijing time.
 
 - 💬 Ask me about anything [here](https://github.com/stout-ni/stout-ni/issues)
 

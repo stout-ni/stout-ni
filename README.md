@@ -1,10 +1,10 @@
 **About me**
 
-- 💼 FrontEnd Engineer at [TikTok for Business](http://ads.tiktok.com/)
+- 💼 FrontEnd Engineer at [TikTok for Business](http://ads.tiktok.com/).
 
 - 🕙 My response time is usually between 10:30 and 19:00 Beijing time.
 
-- 💬 Ask me about anything [here](https://github.com/stout-ni/stout-ni/issues)
+- 💬 Ask me about anything [here](https://github.com/stout-ni/stout-ni/issues).
 
 <code><img height="20" alt="typescript" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>
 <code><img height="20" alt="react" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>

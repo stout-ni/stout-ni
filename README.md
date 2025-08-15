@@ -27,6 +27,6 @@
 | <img align="center" src="https://github-readme-stats.vercel.app/api?username=stout-ni&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Anurag's github stats" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=stout-ni&layout=compact&theme=buefy&hide_border=true" /> |
 | ------------- | ------------- |
 
-<a href="https://twitter.com/stout_ni">
-  <img align="right" alt="Stout Ni | Twitter" width="21px" src="https://cdn.simpleicons.org/x" />
+<a href="https://bento.me/stout-ni">
+  <img align="right" alt="Stout Ni | Bento" width="21px" src="https://cdn.simpleicons.org/bento" />
 </a>

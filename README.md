@@ -27,6 +27,6 @@
 | <img align="center" src="https://github-readme-stats-henna-pi-50.vercel.app/api?username=stout-ni&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Stout Ni's github stats" /> | <img align="center" src="https://github-readme-stats-henna-pi-50.vercel.app/api/top-langs/?username=stout-ni&layout=compact&theme=buefy&hide_border=true" /> |
 | ------------- | ------------- |
 
-<a href="https://bento.me/stout-ni">
-  <img align="right" alt="Stout Ni | Bento" width="21px" src="https://cdn.simpleicons.org/bento" />
+<a href="https://linktr.ee/stout.ni">
+  <img align="right" alt="Stout Ni | Bento" width="21px" src="https://cdn.simpleicons.org/linktree" />
 </a>

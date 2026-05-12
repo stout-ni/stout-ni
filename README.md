@@ -1,10 +1,10 @@
 **About me**
 
-- 💼 FrontEnd Engineer at [TikTok for Business](http://ads.tiktok.com/).
-
 - 🕙 My response time is usually between 10:30 and 19:00 Beijing time.
 
 - 💬 Ask me about anything [here](https://github.com/stout-ni/stout-ni/issues).
+
+- 💼 Freelancer now. Former front-end Engineer at [TikTok for Business](http://ads.tiktok.com/).
 
 **Tech stacks**
 
